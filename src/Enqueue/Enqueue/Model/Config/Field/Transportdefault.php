@@ -1,5 +1,5 @@
 <?php
-use Enqueue\AmqpExt\AmqpContext;
+use Enqueue\AmqpLib\AmqpContext;
 use Enqueue\Stomp\StompContext;
 use Enqueue\Fs\FsContext;
 use Enqueue\Sqs\SqsContext;
